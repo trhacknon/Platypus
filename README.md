@@ -13,7 +13,7 @@ A modern multiple reverse shell sessions/clients manager via terminal written in
 - [x] Multiple service listening port
 - [x] Multiple client connections
 - [x] [RESTful API](./docs/RESTful.md)
-- [x] [Python SDK](https://github.com/WangYihang/Platypus-Python)
+- [x] [Python SDK](https://github.com/trhacknon/Platypus-Python)
 - [x] [Reverse shell as a service](/docs/RaaS.md) (Pop a reverse shell in multiple languages without remembering idle commands)
 - [x] Download/Upload file with progress bar
 - [x] Full interactive shell
@@ -41,7 +41,7 @@ sudo apt install upx
 ### Run Platypus from source code
 
 ```bash
-git clone https://github.com/WangYihang/Platypus
+git clone https://github.com/trhacknon/Platypus
 cd Platypus
 sudo apt install -y make curl
 make install_dependency
